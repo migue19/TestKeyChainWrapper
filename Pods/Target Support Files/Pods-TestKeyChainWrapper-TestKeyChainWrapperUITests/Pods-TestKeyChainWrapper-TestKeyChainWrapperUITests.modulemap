@@ -1,0 +1,6 @@
+framework module Pods_TestKeyChainWrapper_TestKeyChainWrapperUITests {
+  umbrella header "Pods-TestKeyChainWrapper-TestKeyChainWrapperUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

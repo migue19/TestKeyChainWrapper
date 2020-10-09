@@ -1,0 +1,16 @@
+PODS:
+  - KeychainWrapper (0.0.2)
+
+DEPENDENCIES:
+  - KeychainWrapper (~> 0.0.2)
+
+SPEC REPOS:
+  https://github.com/migue19/KeychainWrapperPodSpecs.git:
+    - KeychainWrapper
+
+SPEC CHECKSUMS:
+  KeychainWrapper: 7219bff34899ed7ab8c774001369e36305daf70b
+
+PODFILE CHECKSUM: c140b566e01ffd35bdb67e17c4f7cdcc061230a7
+
+COCOAPODS: 1.9.3
