@@ -7,7 +7,7 @@ source 'https://github.com/migue19/KeychainWrapperPodSpecs.git'
 target 'TestKeyChainWrapper' do
   # Comment the next line if you don't want to use dynamic frameworks
   use_frameworks!
-  pod 'KeychainWrapper', '~> 0.0.2'
+  pod 'KeychainWrapper', '~> 0.0.4'
 
   # Pods for TestKeyChainWrapper
 

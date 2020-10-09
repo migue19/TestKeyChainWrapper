@@ -15,7 +15,6 @@ class ViewController: UIViewController {
         // Set Data
         do {
             guard let pass = "SecretPassword".data(using: .utf8) else { return }
-            try Key
             try KeychainWrapper.set(value: pass, account: "password")
         } catch {
             // Handle Error
